@@ -11,8 +11,6 @@ sites:
     url: https://twyne.gitbook.io/twyne
   - name: Twyne blog
     url: https://mirror.xyz/0x35Faca6D5e25Bd1b498BBE312176cc010cB099F5
-  - name: Twyne twitter
-    url: https://x.com/twynexyz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
