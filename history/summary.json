@@ -58,7 +58,7 @@
     "url": "https://mirror.xyz/0x35Faca6D5e25Bd1b498BBE312176cc010cB099F5",
     "icon": "https://icons.duckduckgo.com/ip3/mirror.xyz.ico",
     "slug": "twyne-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +69,8 @@
     "timeWeek": 120,
     "timeMonth": 331,
     "timeYear": 331,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-07": 0
+    }
   }
 ]
