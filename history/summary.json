@@ -22,18 +22,20 @@
     "url": "https://app.twyne.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/app.twyne.xyz.ico",
     "slug": "twyne-d-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 7571,
-    "timeDay": 10244,
-    "timeWeek": 9291,
-    "timeMonth": 7571,
-    "timeYear": 7571,
-    "dailyMinutesDown": {}
+    "time": 7294,
+    "timeDay": 5164,
+    "timeWeek": 8140,
+    "timeMonth": 7294,
+    "timeYear": 7294,
+    "dailyMinutesDown": {
+      "2025-07-11": 0
+    }
   },
   {
     "name": "Twyne docs",
