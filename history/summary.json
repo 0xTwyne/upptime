@@ -22,19 +22,19 @@
     "url": "https://app.twyne.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/app.twyne.xyz.ico",
     "slug": "twyne-d-app",
-    "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "95.42%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 6170,
-    "timeDay": 2933,
-    "timeWeek": 5258,
-    "timeMonth": 6170,
-    "timeYear": 6170,
+    "status": "up",
+    "uptime": "99.55%",
+    "uptimeDay": "89.18%",
+    "uptimeWeek": "98.45%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
+    "time": 6247,
+    "timeDay": 3479,
+    "timeWeek": 5474,
+    "timeMonth": 6247,
+    "timeYear": 6247,
     "dailyMinutesDown": {
-      "2025-07-11": 66
+      "2025-07-11": 156
     }
   },
   {
